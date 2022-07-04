@@ -1,0 +1,1 @@
+Pastas, Arquivos e Conteúdo do Repositório criados integralmente a partir de comandos, pelo Git Bash, ensinados nos Cursos 'Introdução ao Git e ao GitHub' e 'Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso', pelos Professores: 'Otávio Reis' e 'Venilton FalvoJr', respectivamente.
